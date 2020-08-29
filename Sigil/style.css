@@ -1,0 +1,21 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+#wrap {
+  display: block;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+canvas,
+input,
+button {
+  margin: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
